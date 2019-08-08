@@ -3,7 +3,8 @@ A private server for lostreavers (WIIU)
 
 ____EUR FILES_____
 
-*Usefull links
+𝐔𝐬𝐞𝐟𝐮𝐥𝐥 𝐥𝐢𝐧𝐤𝐬
+
 
 mars.project-treasure.bng.jp (NOW OFFLINE) Uses port 443(from cos.xml) 
 

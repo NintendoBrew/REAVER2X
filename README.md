@@ -1,7 +1,7 @@
 # REAVER2X
 A private server for lostreavers (WIIU)
 
-____EUR FILES_____
+____EUR v.1.0.0_____
 
 𝐔𝐬𝐞𝐟𝐮𝐥𝐥 𝐥𝐢𝐧𝐤𝐬
 
